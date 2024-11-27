@@ -124,3 +124,21 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.blue-text{
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+    margin:0px;
+    padding:0px;
+    font-weight: bold;
+    
+  }
+
+.blue-text2{
+    font-size: 15px;
+    color: blue;
+    text-align: center;
+    margin:0px;
+    padding:0px;
+  }
